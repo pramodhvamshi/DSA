@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pramodhvamshi/DSA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/pramodhvamshi/DSA/tree/master/0056-merge-intervals) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
@@ -44,6 +45,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pramodhvamshi/DSA/tree/master/0035-search-insert-position) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
