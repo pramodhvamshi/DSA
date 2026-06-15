@@ -34,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/pramodhvamshi/DSA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/pramodhvamshi/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
+| [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
