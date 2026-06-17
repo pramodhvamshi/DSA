@@ -35,6 +35,7 @@
 | [0056-merge-intervals](https://github.com/pramodhvamshi/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
+| [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pramodhvamshi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
@@ -72,9 +73,15 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pramodhvamshi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pramodhvamshi/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
