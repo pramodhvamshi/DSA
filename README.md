@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pramodhvamshi/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pramodhvamshi/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pramodhvamshi/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pramodhvamshi/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -19,12 +20,14 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pramodhvamshi/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pramodhvamshi/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pramodhvamshi/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pramodhvamshi/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/pramodhvamshi/DSA/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pramodhvamshi/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pramodhvamshi/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pramodhvamshi/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
