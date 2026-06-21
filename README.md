@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/pramodhvamshi/DSA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/pramodhvamshi/DSA/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/pramodhvamshi/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pramodhvamshi/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pramodhvamshi/DSA/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pramodhvamshi/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pramodhvamshi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1901-find-a-peak-element-ii](https://github.com/pramodhvamshi/DSA/tree/master/1901-find-a-peak-element-ii) |
