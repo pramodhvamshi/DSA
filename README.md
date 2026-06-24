@@ -41,6 +41,7 @@
 | [0410-split-array-largest-sum](https://github.com/pramodhvamshi/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/pramodhvamshi/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pramodhvamshi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pramodhvamshi/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/pramodhvamshi/DSA/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
