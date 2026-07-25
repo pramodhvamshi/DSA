@@ -116,4 +116,8 @@
 | [0198-house-robber](https://github.com/pramodhvamshi/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pramodhvamshi/DSA/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/pramodhvamshi/DSA/tree/master/0410-split-array-largest-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/pramodhvamshi/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
