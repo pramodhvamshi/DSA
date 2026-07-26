@@ -42,6 +42,7 @@
 | [0213-house-robber-ii](https://github.com/pramodhvamshi/DSA/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/pramodhvamshi/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pramodhvamshi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/pramodhvamshi/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/pramodhvamshi/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pramodhvamshi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 | [0595-big-countries](https://github.com/pramodhvamshi/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/pramodhvamshi/DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pramodhvamshi/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pramodhvamshi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
