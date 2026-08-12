@@ -51,6 +51,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pramodhvamshi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/pramodhvamshi/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pramodhvamshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pramodhvamshi/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pramodhvamshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pramodhvamshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
