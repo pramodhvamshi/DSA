@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pramodhvamshi/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pramodhvamshi/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pramodhvamshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -136,4 +137,12 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pramodhvamshi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## String
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pramodhvamshi/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pramodhvamshi/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
