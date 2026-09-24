@@ -52,6 +52,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pramodhvamshi/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/pramodhvamshi/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pramodhvamshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pramodhvamshi/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pramodhvamshi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pramodhvamshi/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
