@@ -64,6 +64,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/pramodhvamshi/DSA/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pramodhvamshi/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pramodhvamshi/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0410-split-array-largest-sum](https://github.com/pramodhvamshi/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/pramodhvamshi/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/pramodhvamshi/DSA/tree/master/0860-lemonade-change) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pramodhvamshi/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -142,9 +144,14 @@
 ## String
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pramodhvamshi/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pramodhvamshi/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pramodhvamshi/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pramodhvamshi/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
